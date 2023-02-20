@@ -15,3 +15,13 @@ padding: 10px 40px;
 border-radius: 10px;
 }
 a{font-size: 20px;}
+.shadow{ box-shadow: 10px 10px 40px rgb(105, 9, 9);
+margin-left: 5%;
+margin-right: 5%;
+width: 40%;
+padding-left: 2%;
+padding-right: 2%;
+border-radius: 10px;
+border-left: 7px solid blue;
+}
+#tomato{ border-left: 7px solid tomato;}
